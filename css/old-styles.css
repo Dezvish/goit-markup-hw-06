@@ -1,42 +1,4 @@
-.whole-bar {
-  justify-content: space-between;
-  display: flex;
-  align-items: center;
-  border-bottom: 1px solid #e7e9fc;
-}
-
-.contact-list {
-  display: flex;
-  gap: 40px;
-}
-
-.nav-container {
-  display: flex;
-  align-items: center;
-}
-
-.header-box {
-  border-bottom: 1px solid #e7e9fc;
-}
-
-.bar-box {
-  display: flex;
-  gap: 40px;
-}
-
-.logo {
-  margin-right: 76px;
-  color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-.logo-link {
+.logo-footer {
   display: inline-block;
   margin-bottom: 16px;
   color: #4d5ae5;
@@ -49,18 +11,7 @@
   text-transform: uppercase;
 }
 
-.logo-header {
-  color: #2e2f42;
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-.logo-bottom {
+.logo-footer-span {
   color: #f4f4fd;
   font-family: Raleway;
   font-size: 18px;
@@ -73,7 +24,6 @@
 
 .header-bar {
   display: block;
-  padding: 24px 0;
   color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
